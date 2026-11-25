@@ -1,5 +1,7 @@
 # Design Patterns: Catalog
 
+For the problem, category reasoning, and solution of each pattern, see [Pattern details](pattern-details.md).
+
 ## Creational
 
 | Pattern | Purpose |
